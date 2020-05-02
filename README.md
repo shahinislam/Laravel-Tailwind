@@ -48,6 +48,8 @@ mix.js('resources/js/app.js', 'public/js')
         });
 ```
 
+- npm run watch <br>
+
 ### layouts/app.blade.php
 ```php
 <body>
